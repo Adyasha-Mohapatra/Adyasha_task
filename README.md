@@ -17,4 +17,19 @@ Now that we have made the commit, its time to push the changes to the remote rep
 Now that we have pushed everything successfully. Its time to “pull request” so that others who are working on the same project can see the changes we made. So you need to click on “create pull request” tab. You can give a name to your pull request. And again click on the tab that says "create pull request".
 8. ***MERGE PULL REQUEST***:
 Now as it has got no conflicts, you can merge the pull request in the master branch by just clicking on “Merge pull request” tab. Now our merging has been done successfully. If you want you can delete the feature branch safely.
+9. ***DELETE THE FEATURE BRANCH***
+Once we merge it, we can delete the feature granch.
 
+**STEPS TO SET THE MESSAGE OF THE DAY**
+1. Open your Turbot Console in a browser window.
+2. Login as a Cluster Administrator.
+3. Browse to ADMIN, then Options.
+4. In the left menu, navigate to Turbot Options, Console.
+5. Set Message of the Day and click Customize. HTML is permitted.
+
+**STEPS TO REMOVE THE NESSAGE OF THE DAY**
+1. Open your Turbot Console in a browser window.
+2. Login as a Cluster Administrator.
+3. Browse to ADMIN, then Options.
+4. In the left menu, navigate to Turbot Options, Console.
+5. For Message of the Day click Remove.
